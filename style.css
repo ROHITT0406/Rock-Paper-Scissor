@@ -1,0 +1,43 @@
+body{
+  background-color: #191919;
+  color: white;
+  font-family: Arial;
+}
+.para{
+  font-size: 30px ;
+  font-weight: 700; 
+}
+.js-result{
+  font-size: 25px ;
+  font-weight: 700;
+}
+.js-moves{
+  font-size: 16px ;
+  margin: 16px 0px;
+}
+.js-score,.js-confirm{
+  font-size: 16px ;
+  margin: 60px 0px 16px;
+
+}
+.reset-button,.auto-play-button{
+  color: #000000;
+  font-size: 15px ;
+  background-color: #ffffff;
+  padding: 8px 15px;
+  border: none;
+  cursor: pointer;
+}
+.moves-button{
+  margin-right: 10px;
+  height: 120px;
+  width: 120px;
+  border-radius: 60px;
+  border: 3px solid white;
+  background-color: transparent;
+  cursor: pointer;
+}
+.moves-icon{
+  height: 50px;
+
+}
